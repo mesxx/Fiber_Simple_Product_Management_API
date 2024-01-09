@@ -1,10 +1,10 @@
 package servers
 
 import (
-	"fiber_simple_product_management/configs"
-	"fiber_simple_product_management/middlewares"
-	"fiber_simple_product_management/models"
-	"fiber_simple_product_management/routes"
+	"fiber_simple_product_management_api/configs"
+	"fiber_simple_product_management_api/middlewares"
+	"fiber_simple_product_management_api/models"
+	"fiber_simple_product_management_api/routes"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"

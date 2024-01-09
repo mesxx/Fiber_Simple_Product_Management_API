@@ -1,10 +1,10 @@
 package routes
 
 import (
-	"fiber_simple_product_management/handlers"
-	"fiber_simple_product_management/middlewares"
-	"fiber_simple_product_management/repositories"
-	"fiber_simple_product_management/usecases"
+	"fiber_simple_product_management_api/handlers"
+	"fiber_simple_product_management_api/middlewares"
+	"fiber_simple_product_management_api/repositories"
+	"fiber_simple_product_management_api/usecases"
 
 	"github.com/gofiber/fiber/v2"
 	"gorm.io/gorm"

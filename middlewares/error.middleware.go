@@ -2,7 +2,7 @@ package middlewares
 
 import (
 	"errors"
-	"fiber_simple_product_management/helpers"
+	"fiber_simple_product_management_api/helpers"
 	"strings"
 
 	"github.com/gofiber/fiber/v2"

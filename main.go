@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fiber_simple_product_management/servers"
+	"fiber_simple_product_management_api/servers"
 	"os"
 
 	"github.com/gofiber/fiber/v2"

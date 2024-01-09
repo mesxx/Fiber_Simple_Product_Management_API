@@ -1,7 +1,7 @@
 package helpers
 
 import (
-	"fiber_simple_product_management/models"
+	"fiber_simple_product_management_api/models"
 	"os"
 	"time"
 

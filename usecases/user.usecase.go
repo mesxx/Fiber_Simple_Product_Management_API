@@ -2,9 +2,9 @@ package usecases
 
 import (
 	"errors"
-	"fiber_simple_product_management/helpers"
-	"fiber_simple_product_management/models"
-	"fiber_simple_product_management/repositories"
+	"fiber_simple_product_management_api/helpers"
+	"fiber_simple_product_management_api/models"
+	"fiber_simple_product_management_api/repositories"
 )
 
 type (
