@@ -1,9 +1,10 @@
 package middlewares
 
 import (
-	"fiber_simple_product_management_api/models"
 	"os"
 	"strings"
+
+	"github.com/mesxx/Fiber_Simple_Product_Management_API/models"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/golang-jwt/jwt/v5"

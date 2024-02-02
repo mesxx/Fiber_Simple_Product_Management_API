@@ -2,8 +2,9 @@ package middlewares
 
 import (
 	"errors"
-	"fiber_simple_product_management_api/helpers"
 	"strings"
+
+	"github.com/mesxx/Fiber_Simple_Product_Management_API/helpers"
 
 	"github.com/gofiber/fiber/v2"
 )

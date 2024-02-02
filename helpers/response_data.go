@@ -1,7 +1,7 @@
 package helpers
 
 import (
-	"fiber_simple_product_management_api/models"
+	"github.com/mesxx/Fiber_Simple_Product_Management_API/models"
 
 	"github.com/gofiber/fiber/v2"
 )

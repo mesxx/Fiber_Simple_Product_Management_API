@@ -2,8 +2,9 @@ package usecases
 
 import (
 	"errors"
-	"fiber_simple_product_management_api/models"
-	"fiber_simple_product_management_api/repositories"
+
+	"github.com/mesxx/Fiber_Simple_Product_Management_API/models"
+	"github.com/mesxx/Fiber_Simple_Product_Management_API/repositories"
 )
 
 type (

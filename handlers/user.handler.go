@@ -1,9 +1,9 @@
 package handlers
 
 import (
-	"fiber_simple_product_management_api/helpers"
-	"fiber_simple_product_management_api/models"
-	"fiber_simple_product_management_api/usecases"
+	"github.com/mesxx/Fiber_Simple_Product_Management_API/helpers"
+	"github.com/mesxx/Fiber_Simple_Product_Management_API/models"
+	"github.com/mesxx/Fiber_Simple_Product_Management_API/usecases"
 
 	"github.com/go-playground/validator/v10"
 	"github.com/gofiber/fiber/v2"

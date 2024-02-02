@@ -1,8 +1,9 @@
 package main
 
 import (
-	"fiber_simple_product_management_api/servers"
 	"os"
+
+	"github.com/mesxx/Fiber_Simple_Product_Management_API/servers"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/joho/godotenv"

@@ -1,9 +1,10 @@
 package helpers
 
 import (
-	"fiber_simple_product_management_api/models"
 	"os"
 	"time"
+
+	"github.com/mesxx/Fiber_Simple_Product_Management_API/models"
 
 	"github.com/golang-jwt/jwt/v5"
 )
